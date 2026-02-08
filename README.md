@@ -23,7 +23,7 @@
 - EDUCBA: Mastering Python Sequences
 - freeCodeCamp: Machine Learning with Python
 
-**[View Complete Certificates Portfolio](https://github.com/gadzide-joel/Portfolio-projects/blob/main/CERTIFICATIONS/Technical%20Portfolio%20%E2%80%93%20GADZIDE%20Komi%20Jo%C3%ABl.pdf)** – All 8 certificates with 20+ associated projects
+**[View Complete Certificates Portfolio](https://github.com/gadzide-joel/Portfolio-projects/blob/main/CERTIFICATIONS/Technical%20Portfolio%20%E2%80%93%20GADZIDE%20Komi%20Jo%C3%ABl.pdf)** – All 9 certificates with 20+ associated projects
 
 ## 💡 Applications Across Technical Fields
 - **Software Engineering**: OOP and embedded systems for autonomous applications
