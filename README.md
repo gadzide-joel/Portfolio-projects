@@ -1,5 +1,5 @@
 # Technical Portfolio – GADZIDE Komi Joël  
-**High School Science Diploma – Highest Honors | Lycée d'Adidogomé I |**
+**High School Science Diploma – Highest Honors | Lycée d'Adidogomé I | Ashinaga Leadership Finalist 2025**
 
 ## 🚀 Versatile Skills Overview (219 Files)
 - **Embedded Systems & IoT**: Arduino LED Control – Embedded systems for drones and sensors  
@@ -8,7 +8,7 @@
 - **Advanced Development**: C++ Banking System, Snake Game – System modeling and game development  
 - **Mathematics & AI**: Python Kinematics, Numerical Analysis – Scientific visualization and computations
 
-**Total: 20+ Projects | 9 International Certificates (Duke, UC Irvine, Michigan)**
+**Total: 20+ Projects | 11 International Certifications (9 in Programming)(Duke, UC Irvine, Michigan)**
 
 ## 📜 Certifications & Hands-on Experience (300+ Hours)
 - **University Certifications**: Programming Foundations (Duke), Programming for Everybody (Michigan), IoT & Embedded Systems (UC Irvine) – 200+ hours, 15+ projects
@@ -23,7 +23,7 @@
 - EDUCBA: Mastering Python Sequences
 - freeCodeCamp: Machine Learning with Python
 
-**[View Complete Certificates Portfolio](https://github.com/gadzide-joel/Portfolio-projects/blob/main/CERTIFICATIONS/International%20Certifications%20Portfolio_GADZIDE%20Komi%20Jo%C3%ABl.pdf)** – All 9 certificates with 20+ associated projects
+**[View Complete Certificates Portfolio](https://github.com/gadzide-joel/Portfolio-projects/blob/main/CERTIFICATIONS/International%20Certifications%20Portfolio_GADZIDE%20Komi%20Jo%C3%ABl.pdf)** – All 11 certificates with 20+ associated projects
 
 ## 💡 Applications Across Technical Fields
 - **Software Engineering**: OOP and embedded systems for autonomous applications
@@ -31,3 +31,7 @@
 - **Artificial Intelligence & Mathematics**: Advanced algorithms for optimization and modeling
 - **Applied Sciences**: Numerical methods for energy systems and smart home technologies
 
+  ### 🌍 Global Vision: Technology for Development
+- **Smart Agriculture** : Conception de drones et robots pour automatiser le travail rural.
+- **Smart Security** : Solutions de domotique biométrique adaptées aux zones à faible connectivité.
+- **Education** : Création d'un centre d'excellence technique au Togo.
