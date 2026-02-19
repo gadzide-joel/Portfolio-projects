@@ -16,10 +16,12 @@
 - **Practical Electronics**: 1-month phone repair workshop – Circuit diagnosis, soldering techniques applied in Arduino projects for drone sensors
 
 ## 📂 Certifications Portfolio
-**9 International Certificates – 300+ Hours of Specialized Training**
+**11 International Certifications (9 in Programming) – 300+ Hours of Specialized Training**
+- Ashinaga Leadership Finalist (2025): Recognized internationally for exceptional academic potential
+- Internet Society (ISOC) Togo: Active participant in digital inclusion discussions
 - Duke University (3): Programming Foundations, Fundamentals, Java Problems
 - University of Michigan: Programming for Everybody (Python)
-- UC Irvine (2): IoT/Embedded Systems, Arduino C Programming
+- UC Irvine (3): IoT/Embedded Systems, Arduino C Programming, Introduction to the Internet of Things and Embedded Systems
 - EDUCBA: Mastering Python Sequences
 - freeCodeCamp: Machine Learning with Python
 
