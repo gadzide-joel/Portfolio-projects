@@ -17,7 +17,7 @@
 
 ## 📂 Certifications Portfolio
 **11 International Certifications (9 in Programming) – 300+ Hours of Specialized Training**
-- Ashinaga Leadership Finalist (2025): Recognized internationally for exceptional academic potential
+- Ashinaga Leadership Finalist (2025): Recognized internationally for exceptional Leadership and academic potential
 - Internet Society (ISOC) Togo: Active participant in digital inclusion discussions
 - Duke University (3): Programming Foundations, Fundamentals, Java Problems
 - University of Michigan: Programming for Everybody (Python)
